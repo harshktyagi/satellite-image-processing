@@ -55,7 +55,7 @@ Expanding analysis to multiple regions.
 
 Contributors:
 -Harsh Tyagi   - parasharharsh.work@gmail.com
--Apoorva Pahal - apoorvapahal0593@gmail.com
+-Apoorva Pahal - apoorvapahal593@gmail.com
 
 Acknowledgments
 
